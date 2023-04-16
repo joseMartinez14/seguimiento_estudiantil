@@ -1,0 +1,17 @@
+#formRegistro table{
+    margin-top: 10%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 5px;
+}
+#boton{
+    text-align: center;
+}
+#respuestas{
+    text-align: center;
+}
+
+.labels{
+    text-align: right;
+    font-family: bold;
+}
