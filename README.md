@@ -40,3 +40,6 @@ This is a college project I build with 3 more team mates. It is a web applicatio
 Jose Andres Martinez - josems0899@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/jose-andres-martinez-4343061b7/
